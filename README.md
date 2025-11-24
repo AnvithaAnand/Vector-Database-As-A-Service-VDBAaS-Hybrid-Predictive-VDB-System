@@ -1,0 +1,2 @@
+# Vector-Database-As-A-Service-VDBAaS-Hybrid-Predictive-VDB-System
+Hybrid Vector Database that intelligently routes queries between local and cloud storage using semantic anchors, trajectory learning, and predictive prefetching. The system adapts over time, achieving 70%+ local hit rate, 3.3× faster retrieval, and reduced cloud costs. Includes a full API demo, metrics tracking, and two-tier storage engine.
